@@ -29,7 +29,7 @@ public class DDP12 {
         long totalHarga = input.nextLong();
         
         
-        // nnbjdkdjdndndndndndndndmdmd   djjdkdkdkdkdkdkdkdndndnd
+    
         System.out.println("==================================");
         System.out.println("\t RESI BELANJA");
         System.out.println("==================================");
