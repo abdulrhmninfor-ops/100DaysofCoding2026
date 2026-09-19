@@ -18,7 +18,7 @@ public class DDP12 {
         System.out.print("harga satuan: ");
         short  hargaSatuan= input.nextShort();
         
-        System.out.print("mulah dibeli : ");
+        System.out.print("jumlah dibeli : ");
         int jumlahDibeli = input.nextInt();
         
         
